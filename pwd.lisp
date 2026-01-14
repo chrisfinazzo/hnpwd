@@ -94,6 +94,7 @@
 
   (:name "Joseph Szymborski"
   :site "https://jszym.com/"
+  :blog "https://jszym.com/blog/"
   :feed "https://jszym.com/https://jszym.com/index.xml"
   :about "https://jszym.com/about/"
   :hnuid "jszymborski"
