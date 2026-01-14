@@ -29,7 +29,7 @@ Contents
 Add Your Website
 ----------------
 
-## Criteria
+### Criteria
 
 Please check whether a website meets the following criteria before
 requesting its inclusion in the directory:
@@ -67,7 +67,7 @@ etc.), please make a request to add it anyway.  If it looks
 interesting enough, we may still add it.
 
 
-## Add
+### Add
 
 Add the website details to [pwd.lisp][lisp] and submit a pull request.
 
