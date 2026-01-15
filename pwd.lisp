@@ -118,7 +118,7 @@
   :blog "https://cookie.engineer/weblog/index.html"
   :feed "https://cookie.engineer/weblog/feed.xml"
   :hnuid "cookiengineer"
-  :bio "Writing and Programming about Cyber Security, Redteaming, and Purpleteaming.")
+  :bio "Writing and Programming about Cyber Security, Redteaming and Purpleteaming.")
 
  (:name "Dennis Silin"
   :site "https://marscalendar.space"
