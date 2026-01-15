@@ -179,7 +179,14 @@
   :feed "https://www.kevinsdias.com/feed.xml"
   :about "https://www.kevinsdias.com/about.html"
   :hnuid "diasks2"
-  :bio "Founder of Ambiki.  Author of The Problem-First Method.  Builds therapy software.")
+  :bio "Founder of Ambiki.  Author of The Problem-First Method.")
+
+ (:name "Kushagra Srivastava"
+  :site "https://skushagra.com/"
+  :feed "https://skushagra.com/index.xml"
+  :about "https://skushagra.com/about/"
+  :hnuid "suobset"
+  :bio "Works on molecular dynamics simulations and low level software.")
 
  (:name "Kyle Ross"
   :site "https://ktross.com/"
