@@ -35,6 +35,13 @@
   :hnuid "aartaka"
   :bio "Writes about Lisp, ed(1) and the Web.")
 
+ (:name "Beast Hacker"
+  :site "https://beasthacker.com/"
+  :about "https://beasthacker.com/about.html"
+  :now "https://beasthacker.com/now.html"
+  :hnuid "beast-hacker"
+  :bio "Makes small things on the Internet.")
+
  (:name "Captain's Quarters"
   :site "https://quarters.captaintouch.com/"
   :feed "https://quarters.captaintouch.com/blog/posts.xml"
@@ -64,11 +71,11 @@
   :bio "Builds large enterprise deployments on private and public cloud infrastructure.")
 
 (:name "Jeffrey Starr"
-  :site "https://ztoz.blog/"
-  :feed "https://ztoz.blog/index.xml"
-  :about "https://ztoz.blog/about/"
-  :hnuid "jwstarr"
-  :bio "Writes about computing history and computer science.")
+ :site "https://ztoz.blog/"
+ :feed "https://ztoz.blog/index.xml"
+ :about "https://ztoz.blog/about/"
+ :hnuid "jwstarr"
+ :bio "Writes about computing history and computer science.")
 
  (:name "John Graham-Cumming"
   :site "https://jgc.org/"
