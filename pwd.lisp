@@ -179,6 +179,14 @@
   :hnuid "i7l"
   :bio "Writes about machine learning, quantum computing and product management.")
 
+ (:name "Ivar Abrahamsen"
+  :site "https://flurdy.com"
+  :blog "https://blog.flurdy.com"
+  :feed "https://blog.flurdy.com/feed.xml"
+  :about "https://blog.flurdy.com/about/"
+  :hnuid "flurdy"
+  :bio "AKA Flurdy. Opionionated software engineer/architect/manager. Likes to share code and howtos")
+ 
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
   :feed "https://www.jeffgeerling.com/blog.xml"
