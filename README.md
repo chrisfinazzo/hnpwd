@@ -42,29 +42,11 @@ requesting its inclusion in the directory:
     design.  However, blogs hosted on publishing platforms such as
     Medium or Substack do not qualify.
 
- 2. Visit https://news.ycombinator.com/from?site=example.com and
-    replace `example.com` in the URL the website's domain.  Review the
-    posts from the website with the highest point totals.  The website
-    qualifies if five or fewer posts have a combined total of at least
-    100 points.
-
-    For example, a website that has a single HN post with 100 points
-    qualifies.  A website with two HN posts with 60 and 40 points
-    respectively also qualify.  However, a website with seven HN posts
-    with 15 points each does not qualify.  Put another way, this
-    criterion looks for an average of at least 20 points per post
-    across the top five posts from the website on HN.
-
-If a website satisfies both criteria above, proceed with the
-submission process laid out in the next section.  These requirements
-help ensure that our directory remains interesting and substantive.
-They prevent our directory from becoming a collection of minimal or
-placeholder websites with little content of value to the community.
-
-If a website does not satisfy the above criteria but you think it is
-still quite interesting (for example, it has interesting posts, games
-etc.), please make a request to add it anyway.  If it looks
-interesting enough, we may still add it.
+ 2. The website must contain substantive content such as articles,
+    blog posts, projects or games developed by the author.  This
+    requirement helps keep the directory interesting and meaningful,
+    and prevents it from becoming a collection of minimal or
+    placeholder websites with little value to the community.
 
 
 ### Add
