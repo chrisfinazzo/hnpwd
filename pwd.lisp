@@ -77,6 +77,12 @@
   :hnuid "sltr"
   :bio "Writes fixes for technical and social pains common to all devs.")
 
+ (:name "Dustin Brett"
+  :site "https://dustinbrett.com/"
+  :feed "https://dustinbrett.com/rss.xml"
+  :hnuid "DustinBrett"
+  :bio "Self-Taught Software Engineer, Traveler, Father & Husband")
+ 
  (:name "Gavin D. Howard"
   :site "https://gavinhoward.com/"
   :feed "https://gavinhoward.com/index.xml"
