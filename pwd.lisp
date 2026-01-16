@@ -119,7 +119,7 @@
   :blog "https://cassidoo.co/blog"
   :feed "https://cassidoo.co/rss.xml"
   :hnuid "cassidoo"
-  :bio "Developer advocate, advisor, software engineer and memer.  Writes a weekly newsletter for devs.")
+  :bio "Dev advocate, advisor, engineer and memer.  Writes a weekly newsletter for devs.")
 
  (:name "Charles Wang"
   :site "https://charleszw.com/"
