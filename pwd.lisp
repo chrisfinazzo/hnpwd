@@ -499,6 +499,14 @@
   :hnuid "yashmehrotra"
   :bio "Backend and infrastructure engineer.  Author of Hugo Gokarna theme.")
 
+ (:name "Rasik Jain"
+  :site "https://www.rasikjain.com/"
+  :blog "https://www.rasikjain.com/posts/"
+  :feed "https://www.rasikjain.com/index.xml"
+  :about "https://www.rasikjain.com/about/"
+  :hnuid "rasikjain"
+  :bio "Software engineer specializing in AI/ML, building secure, scalable apps.")
+
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the
  ;; entries remain sorted alphabetically by name.  Delete any
