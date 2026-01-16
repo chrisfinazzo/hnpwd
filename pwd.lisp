@@ -332,7 +332,7 @@
   :blog "https://shahpreetk.com/blog"
   :feed "https://shahpreetk.com/blog/rss.xml"
   :about "https://shahpreetk.com/portfolio/about-me"
-  :bio "Self-taught Developer, Ardent Kitty lover, Painter (Digital Art too!) and a Software Engineer")
+  :bio "Self-taught developer, ardent kitty lover and a Painter.")
 
  (:name "Rhys Johns"
   :site "https://spikepuppet.io/"
@@ -412,7 +412,7 @@
   :blog "https://utk09.com/blogs"
   :feed "https://utk09.com/blogs/rss.xml"
   :hnuid "utk09"
-  :bio "Frontend Developer with over five years of experience building trading UI's and an avid reader of murder mystery novels.")
+  :bio "Frontend Developer and an avid reader of murder mystery novels.")
 
  (:name "Vijeth P H"
   :site "https://vijethph.github.io/"
