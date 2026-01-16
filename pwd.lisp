@@ -393,7 +393,7 @@
   :feed "https://tamim.io/atom.xml"
   :about "https://tamim.io/about_me/"
   :hnuid "tamimio"
-  :bio "E.E. Borderline obsessed with drones, loves robotics, automation and cybersec.")
+  :bio "E.E.  Borderline obsessed with drones, loves robotics, automation and cybersec.")
  
  (:name "Theodore Morley"
   :site "https://tjmorley.com/"
