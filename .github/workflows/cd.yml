@@ -13,6 +13,6 @@ jobs:
       - uses: webfactory/ssh-agent@v0.9.0
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-      - run: sudo apt-get install sbcl
+      - run: make ci-deps
       - run: make test-all
       - run: make ghpg
