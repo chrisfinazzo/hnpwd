@@ -13,7 +13,7 @@ tidy:
 	tidy -q -e web/index.html
 
 ci-deps:
-	apt-get install sbcl tidy
+	sudo apt-get install sbcl tidy
 
 
 # Additional Essential Target Used by CD
