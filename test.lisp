@@ -89,6 +89,14 @@
   (assert (not (string-starts-with-p "foo" "")))
   (assert (not (string-starts-with-p "foo" "barfoo"))))
 
+(test-case string-trim-prefix
+  (assert (string= (string-trim-prefix "" "") ""))
+  (assert (string= (string-trim-prefix "" "foo") "foo"))
+  (assert (string= (string-trim-prefix "foo" "foo") ""))
+  (assert (string= (string-trim-prefix "foo" "foobar") "bar"))
+  (assert (string= (string-trim-prefix "foo" "") ""))
+  (assert (string= (string-trim-prefix "foo" "barfoo") "barfoo")))
+
 (test-case format-date
   (assert (string= (format-date (encode-universal-time 0 0 0 14 1 2026 0))
                    "Wed, 14 Jan 2026 00:00:00 UTC"))

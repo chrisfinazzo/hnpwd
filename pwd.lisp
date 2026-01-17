@@ -43,7 +43,7 @@
   :about "https://gigatexal.blog/pages/about/about.html"
   :hnuid "gigatexal"
   :bio "Writes about computers and technology.")
- 
+
  (:name "Alex Tiniuc"
   :site "https://tiniuc.com/"
   :feed "https://tiniuc.com/atom.xml"
@@ -497,7 +497,7 @@
   :about "https://www.stefanjudis.com/about/"
   :hnuid "stefanjudis"
   :bio "Frontend developer, web educator and blogger.")
-  
+
  (:name "Steven DeGraeve"
   :site "https://www.degraeve.com/"
   :blog "https://www.degraeve.com/blog/"
@@ -557,7 +557,7 @@
   :feed "https://xeiaso.net/blog.rss"
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
-  
+
  (:name "Yan Solo"
   :site "https://entropylogs.com/"
   :hnuid "yan_solo42"

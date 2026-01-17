@@ -34,6 +34,12 @@
   (and (<= (length prefix) (length string))
        (string= prefix string :end2 (length prefix))))
 
+(defun string-trim-prefix (prefix string)
+  "Remove the given prefix from the given string."
+  (if (string-starts-with-p prefix string)
+      (subseq string (length prefix))
+      string))
+
 (defun weekday-name (weekday-index)
   "Given an index, return the corresponding day of week."
   (nth weekday-index '("Mon" "Tue" "Wed" "Thu" "Fri" "Sat" "Sun")))
@@ -57,9 +63,8 @@
   (let* ((host-start (+ (search "://" url) 3))
          (host-end (position #\/ url :start host-start))
          (host (subseq url host-start host-end)))
-    (when (string-starts-with-p "www." host)
-      (setf host (subseq host 4)))
-    host))
+    (setf host (string-trim-prefix "www." host))
+    (setf host (string-trim-prefix "blog." host))))
 
 
 ;;; Validations
