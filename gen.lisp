@@ -304,7 +304,7 @@
     (format s "    <footer>~%")
     (format s "      <hr>~%")
     (format s "      <nav>~%")
-    (format s "        <a href=\"https://github.com/hnpwd/hnpwd.github.io#readme\">README</a>~%")
+    (format s "        <a href=\"https://github.com/hnpwd/hnpwd#readme\">README</a>~%")
     (format s "        <a href=\"hnpwd.opml\">OPML</a>~%")
     (format s "        <a href=\"https://web.libera.chat/#hnpwd\">IRC</a>~%")
     (format s "      </nav>~%")

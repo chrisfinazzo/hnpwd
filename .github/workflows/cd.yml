@@ -14,16 +14,5 @@ jobs:
       - uses: webfactory/ssh-agent@v0.9.0
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-      - run: ls -la
       - run: sudo apt-get install sbcl
-      - run: sbcl --script gen.lisp
-      - run: cd web/ && git init
-      - run: cd web/ && git add .
-      - run: cd web/ && git config user.name 'Continuous Deployment'
-      - run: cd web/ && git config user.email 'cd@localhost'
-      - run: cd web/ && git commit -m 'Generate website'
-      - run: cd web/ && git branch -M main
-      - run: cd web/ && git branch -a
-      - run: cd web/ && git remote add origin git@github.com:hnpwd/hnpwd.github.io.git
-      - run: cd web/ && git push -f origin main
-      - run: git show
+      - run: make ghpg

@@ -26,15 +26,32 @@ co:
 	@echo 'Type Enter to commit, Ctrl + C to cancel.'; read
 	git commit
 
-gh:
-	git remote remove gh || :
-	git remote add gh git@github.com:hnpwd/hnpwd.github.io.git
-	git push gh main
-	git push gh --tags
+mirror: cb cbpg
 
+# Publish to GitHub Pages.
+ghpg:
+	sbcl --script gen.lisp
+	cd web/ && git init
+	cd web/ && git add .
+	cd web/ && git config user.name 'Continuous Deployment'
+	cd web/ && git config user.email 'cd@localhost'
+	cd web/ && git commit -m 'Generate website'
+	cd web/ && git branch -M main
+	cd web/ && git branch -a
+	cd web/ && git remote add origin git@github.com:hnpwd/hnpwd.github.io.git
+	cd web/ && git push -f origin main
+
+# Publish to Codeberg Pages.
+cbpg:
+	rm -rf /tmp/pages/
+	cd /tmp/ && git clone git@github.com:hnpwd/hnpwd.github.io.git pages
+	cd /tmp/pages && git remote add cbpg git@codeberg.org:hnpwd/pages.git
+	cd /tmp/pages && git push -f cbpg main
+
+# Mirror source code to Codeberg.
 cb:
 	git remote remove cb || :
-	git remote add cb git@codeberg.org:hnpwd/pages.git
+	git remote add cb git@codeberg.org:hnpwd/hnpwd.git
 	git push cb main
 	git push cb --tags
 

@@ -130,7 +130,7 @@ website by creating an issue.  You can do this by following this link:
 While creating the issue, do follow all the guidelines mentioned in
 the previous section.
 
-[new-site]: https://github.com/hnpwd/hnpwd.github.io/issues/new?template=new_site.md
+[new-site]: https://github.com/hnpwd/hnpwd/issues/new?template=new_site.md
 
 
 FAQ
@@ -187,5 +187,5 @@ Alternatively, you can also join our IRC channel [#hnpwd][IRC] on
 Libera Chat to ask questions or just generally hang out with the
 community.
 
-[ISSUES]: https://github.com/hnpwd/hnpwd.github.io/issues
+[ISSUES]: https://github.com/hnpwd/hnpwd/issues
 [IRC]: https://web.libera.chat/#hnpwd
