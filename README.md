@@ -123,25 +123,14 @@ price you pay for including your website in this directory.
 
 ### Add via Issue
 
-If creating a pull request is too much hassle for you, [create an
-issue][ISSUES] instead and post the website details in the following
-format:
-
-````lisp
-```
- (:name "Your first name and last name"
-  :site "https://example.com/"
-  :blog "https://example.com/blog/ (Only if you have a separate blog URL)"
-  :feed "https://example.com/feed.xml"
-  :about "https://example.com/about/"
-  :now "https://example.com/now/"
-  :hnuid "example (Your HN user ID)"
-  :bio "A brief third-person description of yourself, not exceeding 80 characters.")
-```
-````
+If creating a pull request is too much hassle for you, submit your
+website by creating an issue.  You can do this by following this link:
+[new-site][].
 
 While creating the issue, do follow all the guidelines mentioned in
 the previous section.
+
+[new-site]: https://github.com/hnpwd/hnpwd.github.io/issues/new?template=new_site.md
 
 
 FAQ
