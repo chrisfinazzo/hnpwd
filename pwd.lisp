@@ -32,6 +32,14 @@
   :hnuid "atsaloli"
   :bio "IT Operations professional and trainer.")
 
+ (:name "Alex Harri"
+  :site "https://alexharri.com/"
+  :blog "https://alexharri.com/blog"
+  :feed "https://alexharri.com/rss.xml"
+  :about "https://alexharri.com/about"
+  :hnuid "alexharri"
+  :bio "Writes about software design and computer graphics.")
+
  (:name "Alex Lance"
   :site "https://alexlance.blog/"
   :feed "https://alexlance.blog/feed.xml"
