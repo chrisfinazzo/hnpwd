@@ -36,7 +36,7 @@
   :site "https://alexlance.blog/"
   :feed "https://alexlance.blog/feed.xml"
   :hnuid "alance"
-  :bio "Short stories and tech experiments.")
+  :bio "Short stories and technical experiments.")
 
  (:name "Alex Narayan"
   :site "https://gigatexal.blog/"
@@ -96,7 +96,7 @@
   :feed "https://www.bboy.app/atom.xml"
   :about "https://www.bboy.app/about.html"
   :hnuid "bboysoul"
-  :bio "Documenting my life.")
+  :bio "Documenting life.")
 
  (:name "Beast Hacker"
   :site "https://beasthacker.com/"
@@ -180,13 +180,13 @@
   :feed "https://potomushto.com/feed.xml"
   :about "https://potomushto.com/about/"
   :hnuid "potomushto"
-  :bio "Software Developer.  Reexamining the craft in uncertain times.")
+  :bio "Software developer.  Reexamining the craft in uncertain times.")
 
  (:name "Dominic Mason"
   :site "https://domson.dev/"
   :feed "https://domson.dev/atom.xml"
   :hnuid "domson-dev"
-  :bio "Makes hobby projects of software/electronics/wood etc.  Fan of the small web.")
+  :bio "Makes hobby projects of software, electronics, wood, etc.  Fan of the small web.")
 
  (:name "Doug Slater"
   :site "https://www.slater.dev/"
@@ -200,7 +200,7 @@
   :blog "https://drornir.dev/blog/"
   :feed "https://drornir.dev/rss.xml"
   :hnuid "drorn"
-  :bio "Dev and Ops on the cloud.  Sharing mainly techincal knowledge.")
+  :bio "Dev and Ops on the cloud.  Sharing mainly technical knowledge.")
 
  (:name "Dustin Brett"
   :site "https://dustinbrett.com/"
@@ -242,7 +242,7 @@
   :site "https://drshapeless.com/"
   :blog "https://drshapeless.com/blog/"
   :hnuid "drshapeless"
-  :bio "Health professional who is very into programming, Emacs, game development.")
+  :bio "Health professional who is very into programming, Emacs and game development.")
 
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
@@ -296,7 +296,7 @@
   :feed "https://www.joshbeckman.org/feed.xml"
   :about "https://www.joshbeckman.org/about"
   :hnuid "bckmn"
-  :bio "A startup-seasoned Big Tech senior staff crafter software engineer.")
+  :bio "A startup-seasoned senior staff crafter software engineer.")
 
  (:name "Joshua Rogers"
   :site "https://joshua.hu/"
@@ -337,7 +337,7 @@
   :site "https://ktross.com/"
   :feed "https://ktross.com/rss.xml"
   :hnuid "ktross"
-  :bio "Software Engineer.  Interested in DevOps, DevEx and programming languages.")
+  :bio "Software engineer.  Interested in DevOps, DevEx and programming languages.")
 
  (:name "Laurent P. René de Cotret"
   :site "https://laurentrdc.xyz/"
@@ -442,7 +442,7 @@
   :blog "https://peter.demin.dev/life.html"
   :feed "https://peter.demin.dev/life.xml"
   :hnuid "peterdemin"
-  :bio "Writes about Python, vim, git, self-hosting and software engineering in general.")
+  :bio "Writes about Python, Vim, Git, self-hosting and software engineering in general.")
 
  (:name "Peter Kankowski"
   :site "https://www.strchr.com/"
@@ -478,7 +478,7 @@
   :blog "https://priyatham.in/en/post/"
   :feed "https://priyatham.in/en/post/index.xml"
   :hnuid "vasquezempereur"
-  :bio "Tech Lead and a hobbyist self-hoster.")
+  :bio "Tech lead and a hobbyist self-hoster.")
 
  (:name "Rasik Jain"
   :site "https://www.rasikjain.com/"
@@ -493,7 +493,7 @@
   :feed "https://spikepuppet.io/rss.xml"
   :about "https://spikepuppet.io/posts/about-me/"
   :hnuid "spikepuppet"
-  :bio "Writes and rants about technology, startups and tools I find fun.")
+  :bio "Writes and rants about technology, startups and fun tools.")
 
  (:name "Richard Kallos"
   :site "https://rkallos.com/"
@@ -572,7 +572,7 @@
   :about "https://teeg.no/about.html"
   :now "https://teeg.no/now"
   :hnuid "birdsongs"
-  :bio "Nostalgic embedded engineer, writes about photography and non-tech topics.")
+  :bio "Nostalgic embedded engineer, writes about photography and non-technical topics.")
 
  (:name "Theodore Morley"
   :site "https://tjmorley.com/"
@@ -621,7 +621,7 @@
  (:name "Yan Solo"
   :site "https://entropylogs.com/"
   :hnuid "yan_solo42"
-  :bio "Builds stuff that some people find useful and writes about tech and CTFs.")
+  :bio "Builds stuff that some people find useful and writes about technology and CTFs.")
 
  (:name "Yash Mehrotra"
   :site "https://yashmehrotra.com/"
