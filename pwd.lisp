@@ -457,6 +457,13 @@
   :hnuid "afreeorange"
   :bio "Former fullstack engineer.  Biomedical informatics grad student in NYC.")
 
+ (:name "Niklas Gadermann"
+  :site "https://nik.digital/"
+  :blog "https://nik.digital/posts"
+  :about "https://nik.digital/about"
+  :hnuid "NikxDa"
+  :bio "Builds whimsical software solutions.")
+
  (:name "Nikola Balić"
   :site "https://www.nibzard.com/"
   :feed "https://www.nibzard.com/rss.xml"
