@@ -17,6 +17,14 @@
   :hnuid "adityaathalye"
   :bio "Words code talks 'n demos with Clojure, Bash and Bitemporal DB SaaS.")
 
+ (:name "Aishwarya Goel"
+  :site "https://aishwaryagoel.com/"
+  :blog "https://aishwaryagoel.com/blog/"
+  :feed "https://aishwaryagoel.com/feed/?type=rss"
+  :about "https://aishwaryagoel.com/about/"
+  :hnuid "agcat"
+  :bio "Writes about startups, sales, communication, etc.")
+
  (:name "Alan Grow"
   :site "https://alangrow.com/"
   :feed "https://alangrow.com/blog/atom.xml"
