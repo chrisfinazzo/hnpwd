@@ -679,6 +679,13 @@
   :hnuid "birdsongs"
   :bio "Nostalgic embedded engineer, writes about photography and non-technical topics.")
 
+ (:name "Tamimi"
+  :site "https://tamim.io/"
+  :feed "https://tamim.io/atom.xml"
+  :about "https://tamim.io/about_me/"
+  :hnuid "tamimio"
+  :bio "Electrical engineer obsessed with drones, robotics, automation and cybersec.")
+
  (:name "Theodore Morley"
   :site "https://tjmorley.com/"
   :blog "https://tjmorley.com/articles.html"
