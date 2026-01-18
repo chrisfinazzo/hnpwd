@@ -149,7 +149,7 @@ much about getting everything right on the first attempt.  Automated
 checks run on every pull request and if you miss something, the
 failing checks will tell you what needs fixing.
 
-Aside: The 4th (no Oxford comma) and 5th points above (double spacing
+Aside: The 6th (no Oxford comma) and 7th points above (double spacing
 convention) are likely going to feel awkward to many people.  This
 project uses British English (BrE) and Oxford comma is generally not
 used in BrE.  Further, the original author of this project uses Emacs
