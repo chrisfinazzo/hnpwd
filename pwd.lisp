@@ -397,6 +397,15 @@
   :hnuid "lawgimenez"
   :bio "Mobile developer.  Writes both work and personal stuff.")
 
+ (:name "Lei Wang"
+  :site "https://leiw.ai/"
+  :blog "https://blog.leiw.ai/"
+  :feed "https://blog.leiw.ai/feed.xml"
+  :about "https://blog.leiw.ai/about/"
+  :now "https://blog.leiw.ai/now/"
+  :hnuid "tendant"
+  :bio "Builder working on AI-native financial systems, infrastructure and software.")
+
  (:name "Lorenzo Gravina"
   :site "https://trms.me/"
   :feed "https://trms.me/feed/"
