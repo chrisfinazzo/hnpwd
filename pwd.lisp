@@ -85,13 +85,13 @@
   :hnuid "xorvoid"
   :bio "Writes about low-level programming and mathematics.")
 
-(:name "Antonio Sarro"
+ (:name "Antonio Sarro"
   :site "https://antoniosarro.dev/"
   :blog "https://antoniosarro.dev/blogs/"
   :feed "https://antoniosarro.dev/rss.xml"
   :about "https://antoniosarro.dev/about/"
   :hnuid "antoniosarro"
-  :bio "Software Eng.  I love homelabs and write blog articles about it.")
+  :bio "Software engineer.  Loves homelabs and writes about them.")
 
  (:name "Artyom Bologov"
   :site "https://aartaka.me/"
