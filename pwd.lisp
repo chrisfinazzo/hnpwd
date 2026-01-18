@@ -65,12 +65,19 @@
   :hnuid "wttr"
   :bio "An IT sales/project manager turned web developer.")
 
+ (:name "Aman Kumar"
+  :site "https://amankumar.ai/"
+  :about "https://amankumar.ai/about"
+  :blog "https://amankumar.ai/blogs"
+  :hnuid "onlyoneaman"
+  :bio "Full-stack AI engineer.  Turns fuzzy ideas into live products quickly.")
+
  (:name "Andre Franca"
   :site "https://afranca.com.br/"
   :feed "https://afranca.com.br/rss/"
   :about "https://afranca.com.br/about/"
   :bio "Tech nerd and open source enthusiast.")
-
+ 
  (:name "Andrew Montalenti"
   :site "https://amontalenti.com/"
   :feed "https://amontalenti.com/feed"
@@ -222,6 +229,7 @@
   :hnuid "DustinBrett"
   :bio "Self-taught software engineer, traveler, father and husband.")
 
+
  (:name "Ed Thomas"
   :site "https://ed-thomas.dev/"
   :blog "https://ed-thomas.dev/blog/"
@@ -229,6 +237,14 @@
   :now "https://ed-thomas.dev/now/"
   :hnuid "pixel87"
   :bio "Comp Sci student, making things.")
+
+ (:name "Emma Goto"
+  :site "https://www.emgoto.com/"
+  :feed "https://www.emgoto.com/rss.xml"
+  :about "https://www.emgoto.com/about/"
+  :now "https://www.emgoto.com/now/"
+  :hnuid "emgoto"
+  :bio "Software engineer living in Tokyo.  Writes about hiking, books and code.")
 
  (:name "Gavin D. Howard"
   :site "https://gavinhoward.com/"
@@ -243,6 +259,13 @@
   :about "https://ianreppel.org/about"
   :hnuid "i7l"
   :bio "Writes about machine learning, quantum computing and product management.")
+
+ (:name "Ibrahim Diallo"
+  :site "https://idiallo.com/"
+  :feed "https://idiallo.com/feed.rss"
+  :about "https://idiallo.com/aboutme.html"
+  :hnuid "firefoxd"
+  :bio "Software engineer.  Writes about programming and tells workplace stories.")
 
  (:name "Ivar Abrahamsen"
   :site "https://flurdy.com/"
@@ -278,6 +301,12 @@
   :feed "https://blog.jgc.org/feeds/posts/default"
   :hnuid "jgc"
   :bio "Original writer of POPFile.  Member of the board of directors at Cloudflare.")
+
+ (:name "John Lampard"
+  :site "https://disassociated.com/"
+  :feed "https://disassociated.com/feed/"
+  :about "https://disassociated.com/about/"
+  :bio "Former web designer turned writer and blogger, based in Australia.")
 
  (:name "John Zanussi"
   :site "https://johnzanussi.com/"
@@ -416,6 +445,13 @@
   :hnuid "xnacly"
   :bio "Writes about compilers and hardware.  Contributes to open source software.")
 
+(:name "Matthew Brunelle"
+  :site "https://blog.matthewbrunelle.com/"
+  :feed "https://blog.matthewbrunelle.com/rss/"
+  :about "https://blog.matthewbrunelle.com/about/"
+  :hnuid "ciferkey"
+  :bio "Writes about projects events and ideas, sharing lessons learnt with others.")
+
  (:name "Mike Cardwell"
   :site "https://www.grepular.com/"
   :blog "https://www.grepular.com/blog/"
@@ -435,6 +471,13 @@
   :hnuid "mkasberg"
   :bio "Husband.  Father.  Software engineer.  Ubuntu Linux user.")
 
+ (:name "Nabraj"
+  :site "https://nabraj.com/"
+  :blog "https://nabraj.com/blog"
+  :feed "https://nabraj.com/rss.xml"
+  :hnuid "coffeecoders"
+  :bio "Full-stack engineer, now focused on breadboards and building robots.")
+
  (:name "Neil Kakkar"
   :site "https://neilkakkar.com/"
   :blog "https://neilkakkar.com/blog/"
@@ -442,6 +485,13 @@
   :about "https://neilkakkar.com/about/"
   :hnuid "neilkakkar"
   :bio "Software engineer.  Writes about technology, psychology and critical thinking.")
+
+ (:name "Nic Chan"
+  :site "https://www.nicchan.me/"
+  :blog "https://www.nicchan.me/blog/"
+  :feed "https://www.nicchan.me/feed.xml"
+  :about "https://www.nicchan.me/about/"
+  :bio "Member of the W3C Maps4HTML community.  Writes about web development.")
 
  (:name "Nicolas Chagnet"
   :site "https://nchagnet.pages.dev/"
@@ -455,7 +505,14 @@
   :about "https://nikhil.io/about/"
   :hnuid "afreeorange"
   :bio "Former fullstack engineer.  Biomedical informatics grad student in NYC.")
- 
+
+ (:name "Niklas Gadermann"
+  :site "https://nik.digital/"
+  :blog "https://nik.digital/posts"
+  :about "https://nik.digital/about"
+  :hnuid "NikxDa"
+  :bio "Builds whimsical software solutions.")
+
  (:name "Nikola Balić"
   :site "https://www.nibzard.com/"
   :feed "https://www.nibzard.com/rss.xml"
@@ -638,6 +695,12 @@
   :feed "https://tonyalicea.dev/feed/feed.xml"
   :hnuid "TonyAlicea10"
   :bio "Udemy and Pluralsight author, conference speaker.  Writes about AI, dev and UX.")
+
+ (:name "Torrin Leonard"
+  :site "https://torrin.me/"
+  :feed "https://torrin.me/blog"
+  :hnuid "torrinleonard"
+  :bio "Founder and developer.  Builds AI-powered web apps and custom UI frameworks.")
 
  (:name "Vermaden"
   :site "https://vermaden.wordpress.com/"
