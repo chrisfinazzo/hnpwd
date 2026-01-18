@@ -872,7 +872,7 @@
   :about "https://blog.zacbentley.com/about/"
   :feed "https://blog.zacbentley.com/index.xml"
   :hnuid "zbentley"
-  :bio "Software engineer and architect.  Writes architecture advice and essays about decision-making, code, PLT and more.")
+  :bio "Software engineer and architect.  Writes about a variety of topics.")
 
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the
