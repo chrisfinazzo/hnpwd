@@ -554,6 +554,14 @@
   :hnuid "neilkakkar"
   :bio "Software engineer.  Writes about technology, psychology and critical thinking.")
 
+ (:name "Nemanja Ninković"
+  :site "https://ninkovic.dev/"
+  :blog "https://ninkovic.dev/blog/"
+  :feed "https://ninkovic.dev/rss.xml"
+  :about "https://ninkovic.dev/"
+  :hnuid "nemwiz"
+  :bio "Writes about practical implementation of AI technologies. Leads engineering teams and builds AI products.")
+
  (:name "Nic Chan"
   :site "https://www.nicchan.me/"
   :blog "https://www.nicchan.me/blog/"
