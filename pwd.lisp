@@ -426,6 +426,13 @@
   :hnuid "jwstarr"
   :bio "Writes about computing history and computer science.")
 
+ (:name "Jim Nielsen"
+  :site "https://www.jim-nielsen.com/"
+  :blog "https://blog.jim-nielsen.com/"
+  :feed "https://blog.jim-nielsen.com/feed.xml"
+  :about "https://blog.jim-nielsen.com/about/"
+  :bio "Web designer, developer and blogger.")
+
  (:name "John Graham-Cumming"
   :site "https://jgc.org/"
   :blog "https://blog.jgc.org/"
