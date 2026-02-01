@@ -329,6 +329,12 @@
   :hnuid "pixel87"
   :bio "Comp Sci student, making things.")
 
+ (:name "Eldridge Alexander"
+  :site "https://eldrid.ge/"
+  :blog "https://blog.eldrid.ge/"
+  :hnuid "eldridgea"
+  :bio "Information security engineer at Hudson River Trading.")
+
  (:name "Embedding Shapes"
   :site "https://embedding-shapes.github.io/"
   :blog "https://embedding-shapes.github.io/posts/"
@@ -343,14 +349,14 @@
   :now "https://www.emgoto.com/now/"
   :hnuid "emgoto"
   :bio "Software engineer living in Tokyo.  Writes about hiking, books and code.")
- 
+
  (:name "Evan Schwartz"
   :site "https://emschwartz.me/"
   :blog "https://emschwartz.me/blog/"
   :feed "https://emschwartz.me/feed/"
   :hnuid "emschwartz"
   :bio "Rust dev building and writing about building Scour, a personalized content feed.")
- 
+
  (:name "Facundo Olano"
   :site "https://olano.dev/"
   :feed "https://olano.dev/feed.xml"
