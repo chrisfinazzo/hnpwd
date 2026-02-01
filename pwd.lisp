@@ -642,7 +642,7 @@
   :feed "https://michaelsalim.co.uk/feed.xml"
   :about "https://michaelsalim.co.uk/about-me/"
   :hnuid "michaelsalim"
-  :bio "Full-stack freelancer.  Develops open-source libraries and web services.")
+  :bio "Full-stack freelancer.  Develops open source libraries and web services.")
 
  (:name "Mike Cardwell"
   :site "https://www.grepular.com/"
@@ -960,6 +960,12 @@
   :blog "https://tjmorley.com/articles.html"
   :hnuid "morleytj"
   :bio "Software developer and scientist at the Center for Digital Genomic Medicine.")
+
+ (:name "Thomas Huehn"
+  :site "https://www.thomas-huehn.com/"
+  :feed "https://www.thomas-huehn.com/feed.xml"
+  :hnuid "Tomte"
+  :bio "Writes about Linux, open source, project management, books, etc.")
 
  (:name "Thomas Tartière"
   :site "https://thomastartiere.com/"
