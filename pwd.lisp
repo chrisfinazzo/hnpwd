@@ -462,6 +462,13 @@
   :hnuid "johnz"
   :bio "Former front-end developer writing about the web, hardware and hobby projects.")
 
+ (:name "Jordan Matelsky"
+  :site "https://jordan.matelsky.com/"
+  :blog "https://blog.jordan.matelsky.com/"
+  :feed "https://blog.jordan.matelsky.com/feed.xml"
+  :hnuid "j6m8"
+  :bio "Computational neuroscientist at the Johns Hopkins Applied Physics Laboratory.")
+
  (:name "Joseph Jude"
   :site "https://www.jjude.com/"
   :blog "https://www.jjude.com/posts/"
