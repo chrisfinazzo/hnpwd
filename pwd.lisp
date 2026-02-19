@@ -897,6 +897,13 @@
   :hnuid "iamrobertismo"
   :bio "Writes about free software, non-profit stuff and self-hosting.")
 
+ (:name "Salih Muhammed"
+  :site "https://lr0.org/"
+  :blog "https://lr0.org/blog"
+  :feed "https://lr0.org/blog/index.xml"
+  :hnuid "lr0"
+  :bio "Writes about programming, living and philosophy matters.")
+
  (:name "Sam Broner"
   :site "https://sambroner.com/"
   :feed "https://sambroner.com/rss.xml"
