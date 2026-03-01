@@ -563,9 +563,9 @@
   :bio "Writes about software.  On the Haskell Foundation Board of Directors.")
 
  (:name "Lawrence Gimenez"
-  :site "https://law.gmnz.xyz/"
-  :blog "https://law.gmnz.xyz/blog/"
-  :feed "https://law.gmnz.xyz/feed"
+  :site "https://gmnz.xyz/"
+  :blog "https://gmnz.xyz/posts/"
+  :feed "https://gmnz.xyz/rss.xml"
   :hnuid "lawgimenez"
   :bio "Mobile developer.  Writes both work and personal stuff.")
 
