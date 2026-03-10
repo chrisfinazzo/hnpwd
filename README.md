@@ -243,10 +243,13 @@ FAQ
     We received over 2000 website suggestions on that thread.  Each
     submission requires a brief visual review to ensure it is a good
     fit for this directory, and this process cannot be fully
-    automated.  As a result, it is likely to take several months to
-    work through all the suggestions we received.
+    automated.  It is unlikely we will ever get the time to process
+    all submissions there.
 
-    To track our progress, see our [backlog tables][backlog-tables].
+    To include your website in the directory, the best course of
+    action is to send us a pull request.  See the [Add Your
+    Website](#add-your-website) section to learn how to send a pull
+    request.
 
  4. Can I contribute my time and help you make progress faster?
 
@@ -255,6 +258,10 @@ FAQ
     channel [#hnpwd][IRC].  You may need to stay connected for a while
     after asking, as not all volunteers are present at all hours of
     the day.
+
+    For us to consider adding you as a maintainer, please share your
+    website and HN username with us so that we can get some sense of
+    who we are going to work with.
 
  5. On the directory website, how is the order of the personal
     websites decided?
